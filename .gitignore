@@ -1,0 +1,14 @@
+# Gradle / Loom
+.gradle/
+build/
+out/
+run/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 本地临时文件
+临时文件/

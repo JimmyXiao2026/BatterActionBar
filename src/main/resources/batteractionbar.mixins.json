@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jimmyxiao.batteractionbar.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "batteractionbar-refmap.json",
+  "client": [
+    "ClientPacketListenerMixin",
+    "GuiCustomBarsMixin",
+    "GuiOverlayMessageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

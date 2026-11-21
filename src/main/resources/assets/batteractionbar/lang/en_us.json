@@ -1,0 +1,15 @@
+{
+  "screen.batteractionbar.title": "BatterActionBar Settings",
+  "screen.batteractionbar.hint": "Left-drag to move, scroll to resize, right-click to reset one bar (position + size); saved on release",
+  "screen.batteractionbar.enabled": "Enable this mod",
+  "screen.batteractionbar.hide_server": "Hide the server action bar",
+  "screen.batteractionbar.reset_all": "Reset all positions and sizes",
+  "screen.batteractionbar.done": "Done",
+  "screen.batteractionbar.name_server": "Server action bar",
+  "screen.batteractionbar.name_client": "Client action bar",
+  "screen.batteractionbar.entry_label": "%s  X=%s  Y=%s  Size=%s",
+  "screen.batteractionbar.preview_server": "Server action bar sample text",
+  "screen.batteractionbar.preview_client": "Client action bar sample text",
+  "screen.batteractionbar.vanilla_anchor": "Vanilla action bar position",
+  "key.batteractionbar.open_config": "Open action bar position settings"
+}

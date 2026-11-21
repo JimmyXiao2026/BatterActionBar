@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "batteractionbar",
+  "version": "${version}",
+  "name": "BatterActionBar",
+  "description": "分离服务器与客户端动作栏的显示位置与大小，支持多动作栏公共 API、设置界面拖动与缩放。",
+  "authors": [
+    "JimmyXiao"
+  ],
+  "license": "MIT",
+  "icon": "assets/batteractionbar/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.jimmyxiao.batteractionbar.BatterActionBarClient"
+    ],
+    "modmenu": [
+      "com.jimmyxiao.batteractionbar.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "batteractionbar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "recommends": {
+    "modmenu": ">=17.0.0"
+  }
+}

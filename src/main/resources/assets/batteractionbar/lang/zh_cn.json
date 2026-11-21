@@ -1,0 +1,15 @@
+{
+  "screen.batteractionbar.title": "BatterActionBar 设置",
+  "screen.batteractionbar.hint": "左键拖到想要的位置，滚轮缩放，右键复位这一条（位置与大小），松手自动保存",
+  "screen.batteractionbar.enabled": "启用本模组",
+  "screen.batteractionbar.hide_server": "隐藏服务器动作栏",
+  "screen.batteractionbar.reset_all": "重置全部位置与大小",
+  "screen.batteractionbar.done": "完成",
+  "screen.batteractionbar.name_server": "服务器动作栏",
+  "screen.batteractionbar.name_client": "客户端动作栏",
+  "screen.batteractionbar.entry_label": "%s  X=%s  Y=%s  大小=%s",
+  "screen.batteractionbar.preview_server": "服务器动作栏示例文本",
+  "screen.batteractionbar.preview_client": "客户端动作栏示例文本",
+  "screen.batteractionbar.vanilla_anchor": "原版动作栏位置",
+  "key.batteractionbar.open_config": "打开动作栏位置设置"
+}
